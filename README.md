@@ -1,6 +1,6 @@
 Prazer, eu sou a Vitória! 
 
--Atualmente trabalho no administrativo em uma empresa de comunicação visual.
+-Atualmente trabalho no administrativo de uma empresa de comunicação visual.
 
 -Estudos focado em ciência de dados para migração de carreira.
 
