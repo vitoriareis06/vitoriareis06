@@ -19,3 +19,5 @@ Leitura: Adoro mergulhar em livros de diversos gêneros, principalmente os que m
 Café: Um bom cafézinho sem açúcar é sempre a escolha perfeita para um momento de reflexão ou produtividade.
 Se quiser colaborar ou conversar sobre ciência de dados ou desenvolvimento pessoal, fique à vontade para me chamar!
 
+"O futuro depende do que fazemos no presente." - Mahatma Gandhi.
+
