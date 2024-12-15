@@ -18,7 +18,5 @@ Atualmente, estou me dedicando ao estudo de Ciência de Dados, com o objetivo de
 Academia: Mantenho uma rotina disciplinada, cuidando da minha saúde física e mental.
 Leitura: Adoro mergulhar em livros de diversos gêneros, principalmente os que me ajudam no meu desenvolvimento pessoal e profissional.
 Café: Um bom cafézinho sem açúcar é sempre a escolha perfeita para um momento de reflexão ou produtividade.
-Se quiser colaborar ou conversar sobre ciência de dados ou desenvolvimento pessoal, fique à vontade para me chamar!<!---
-vitoriareis06/vitoriareis06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Se quiser colaborar ou conversar sobre ciência de dados ou desenvolvimento pessoal, fique à vontade para me chamar!
+
