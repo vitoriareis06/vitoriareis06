@@ -2,7 +2,7 @@ Prazer, eu sou a Vitória!👋🏻
 
 
 🌟 Quem sou eu?:  
-Atualmente, sou responsável pelo setor administrativo de uma empresa de comunicação visual. Tenho uma paixão crescente por ciência de dados e estou focada na migração de carreira para essa área.
+Atualmente, sou responsável pelo setor administrativo e RH de uma empresa de Lingerie. Tenho uma paixão crescente por ciência de dados e estou focada na migração de carreira para essa área.
 
 
 👩‍👧 Vida Pessoal:  
